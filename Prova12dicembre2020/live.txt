@@ -1,0 +1,13 @@
+* inizio sulla homepage *
+Questa è l’applicazione da noi sviluppata,
+* apro l’app *
+Aprendola è possibile trovare una semplice interfaccia grafica, composta da un bottone e da una lista degli annunci disponibili. Per scaricare la lista presente sul server e visualizzarla è sufficiente premere su aggiorna
+* premo aggiorna *
+Ci verrà così mostrato un elenco di tutti gli annunci disponibili, che potremo liberamente scorrere e dal quale andremo a selezionare un annuncio a nostra scelta. Selezioniamo per esempio la casa vacanze a Marbella.
+* seleziono la casa vacanze a marbella *
+Ci verrà aperta una schermata contenente maggiori informazioni sull’annuncio, tra cui anche, dopo pochi secondi di caricamento, una immagine. Possiamo così vedere, oltre al titolo e al luogo già visualizzati nella precedente schermata, anche il numero di posti letti disponibili, il prezzo per notte e una descrizione fornita dal proprietario. Una volta convinti della nostra decisione, possiamo effettuare la nostra prenotazione
+* premo prenota *
+Ci verrà richiesto di inserire il nostro indirizzo email, al quale verremo poi contattati dal proprietario dell’immobile con i dettagli della prenotazione, e una data di check in e di check out, tutte informazioni che verranno poi elaborate e conservate sul nostro server. In questo caso inserisco delle informazioni esemplificative, e confermo la mia prenotazione
+* inserisco dati e premo prenota *
+Così facendo il mio ordine verrà inviato al server, e io potrò essere ricontattato dal proprietario per confermare il mio soggiorno
+* ritorno alla home, e poi alla homepage *
